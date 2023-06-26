@@ -188,7 +188,7 @@ h2 {
 .habilidades-container {
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: flex-start;
     gap: 70px;
 }
 
